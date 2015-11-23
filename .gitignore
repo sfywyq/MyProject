@@ -1,0 +1,15 @@
+/target
+/
+.settings
+/
+.project
+
+.classpath
+
+bin/
+
+readme.txt
+
+.idea/
+
+*.iml
